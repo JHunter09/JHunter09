@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[Viva Group US]**
+- :office: &nbsp;I'm currently volunteering at **[Viva Group US]**
 - :seedling: &nbsp;I’m currently learning **TypeScript**
 - :speech_balloon: &nbsp;I like to talk about **Rocketry** and **Video Games**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
@@ -71,16 +71,28 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <a href="#JHunter09-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
       <a href="#JHunter09-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#JHunter09-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#JHunter09-tech" >
+        <img src="./img/gatsby-plain.svg" width="48" height="48" alt="Gatsby" />
       </a>
-      <br>Bootstrap
+      <br>Gatsby
+    </td>
+    <td align="center" width="96">
+      <a href="#JHunter09-tech" >
+        <img src="./img/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
     </td>
      <td align="center"  width="96">
       <a href="#JHunter09-tech">
@@ -93,12 +105,6 @@
         <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>RHEL
-    </td> 
-    <td align="center"  width="96">
-      <a href="#JHunter09-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#JHunter09-tech">
