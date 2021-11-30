@@ -115,9 +115,6 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
-
-
 <!-- links -->
 
 [Viva Group US]: https://vivatrucking.com "Viva Trucking"
