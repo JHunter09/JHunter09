@@ -1,5 +1,5 @@
 <h1 align="left" id="JHunter09-title">:wave: Howdy there, I'm Johnny Hunter :sunglasses:</h1>
-<h3 align="left">I am a constantly self-teaching Full-Stack Developer, Bot fanatic, and amateur game developer.</h3>
+<h3 align="left">I am a self-taught Full-Stack Developer, Bot fanatic, and amateur game developer.</h3>
 
 <p align="left">
   <a href="https://github.com/JHunter09/JHunter09">
@@ -14,7 +14,7 @@
 </p>
 
 - :office: &nbsp;I'm currently volunteering at **[Viva Group US]**
-- :seedling: &nbsp;I’m currently learning **TypeScript**
+- :seedling: &nbsp;I’m currently learning **How to develop professionally**
 - :speech_balloon: &nbsp;I like to talk about **Rocketry** and **Video Games**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me via **[e-mail]**
