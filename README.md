@@ -1,4 +1,4 @@
-<h1 align="left" id="JHunter09-title">:wave: Howdy there, I'm Johnny Hunter :cowboy:</h1>
+<h1 align="left" id="JHunter09-title">:wave: Howdy there, I'm Johnny Hunter :sunglasses:</h1>
 <h3 align="left">I am a constantly self-teaching Full-Stack Developer, Bot fanatic, and amateur game developer.</h3>
 
 <p align="left">
@@ -13,12 +13,8 @@
   </a>
 </p>
 
-<a href="#JHunter09-title">
-  <img src="https://raw.githubusercontent.com/JHunter09/github-stats-transparent/output/generated/overview.svg" alt="JHunter09" align="right" />
-</a>
-
 - :office: &nbsp;I'm currently working at **[Viva Group US]**
-- :seedling: &nbsp;I’m currently learning **Better development habits**
+- :seedling: &nbsp;I’m currently learning **TypeScript**
 - :speech_balloon: &nbsp;I like to talk about **Rocketry** and **Video Games**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me via **[e-mail]**
@@ -44,6 +40,24 @@
     </td>
     <td align="center" width="96">
       <a href="#JHunter09-tech">
+        <img src="./img/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#JHunter09-tech">
+        <img src="./img/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#JHunter09-tech">
+        <img src="./img/css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#JHunter09-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -60,6 +74,8 @@
       </a>
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#JHunter09-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
@@ -72,8 +88,6 @@
       </a>
       <br>RHEL
     </td> 
-  </tr>
-  <tr>
     <td align="center"  width="96">
       <a href="#JHunter09-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
