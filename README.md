@@ -2,6 +2,7 @@
 <h3 align="left">I am a self-taught Full-Stack Developer, Bot fanatic, and amateur game developer.</h3>
 
 <p align="left">
+  <a href="https://twitter.com/J_Hunter_09" target="blank"><img src="https://img.shields.io/twitter/follow/J_Hunter_09?logo=twitter&style=for-the-badge" alt="J_Hunter_09" /></a>
   <a href="https://github.com/JHunter09/JHunter09">
     <img src="https://komarev.com/ghpvc/?username=JHunter09" alt="page views" />
   </a>
